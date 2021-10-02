@@ -1,0 +1,55 @@
+/*  */
+
+/* Scroll Indicator */
+
+/*  */
+.section {
+  background: #333;
+  height: 100vh;
+  position: relative;
+  width: 100%;
+}
+
+.section-1::before {
+  z-index: 100;
+  animation: bounce 4s infinite;
+  /* bottom: 2rem; */
+  bottom: 4vh;
+  color: #fff;
+  content: '╲╱';
+  font-size: 1.2rem;
+  height: 4rem;
+  left: 50%;
+  letter-spacing: -1px;
+  line-height: 4rem;
+  margin-left: -3rem;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  width: 6rem;
+}
+
+.section-1::after {
+  z-index: 100;
+  animation: bounce 4s infinite;
+  /* bottom: 2rem; */
+  bottom: 3vh;
+  color: #fff;
+  content: '╲╱';
+  font-size: 1rem;
+  height: 4rem;
+  left: 50%;
+  letter-spacing: -1px;
+  line-height: 4rem;
+  margin-left: -3rem;
+  opacity: 0.8;
+  position: absolute;
+  text-align: center;
+  width: 6rem;
+}
+
+@keyframes bounce {
+  50% {
+    transform: translateY(-50%);
+  }
+}
