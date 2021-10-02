@@ -1,2 +1,2 @@
 # VentureCapitalist
-A Vue + Firestore game inspired by Adventure Capitalist. 
+A React + Firestore game inspired by Adventure Capitalist. 
