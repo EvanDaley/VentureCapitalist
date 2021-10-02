@@ -2,6 +2,7 @@ import './App.css';
 // import VideoSandbox from "./components/html_components/VideoSandbox"
 import mouseState from './mouseState';
 import React, { useEffect } from 'react';
+import SimpleTimer from './components/html_components/SimpleTimer';
 
 function App() {
   const onDocumentPointerMove = (e) => {
@@ -16,7 +17,10 @@ function App() {
   return (
     <>
       <div className="html-content-container">
-        <p>here</p>
+        <SimpleTimer/>
+        <SimpleTimer/>
+        <SimpleTimer/>
+        <SimpleTimer/>
       </div>
     </>
   );

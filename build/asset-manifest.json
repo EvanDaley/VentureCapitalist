@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/VentureCapitalist/static/css/main.7667fc97.chunk.css",
+    "main.js": "/VentureCapitalist/static/js/main.0d6a13c2.chunk.js",
+    "main.js.map": "/VentureCapitalist/static/js/main.0d6a13c2.chunk.js.map",
+    "runtime-main.js": "/VentureCapitalist/static/js/runtime-main.48443c5e.js",
+    "runtime-main.js.map": "/VentureCapitalist/static/js/runtime-main.48443c5e.js.map",
+    "static/js/2.503ccd1b.chunk.js": "/VentureCapitalist/static/js/2.503ccd1b.chunk.js",
+    "static/js/2.503ccd1b.chunk.js.map": "/VentureCapitalist/static/js/2.503ccd1b.chunk.js.map",
+    "static/js/3.4c60ff16.chunk.js": "/VentureCapitalist/static/js/3.4c60ff16.chunk.js",
+    "static/js/3.4c60ff16.chunk.js.map": "/VentureCapitalist/static/js/3.4c60ff16.chunk.js.map",
+    "index.html": "/VentureCapitalist/index.html",
+    "static/css/main.7667fc97.chunk.css.map": "/VentureCapitalist/static/css/main.7667fc97.chunk.css.map",
+    "static/js/2.503ccd1b.chunk.js.LICENSE.txt": "/VentureCapitalist/static/js/2.503ccd1b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48443c5e.js",
+    "static/js/2.503ccd1b.chunk.js",
+    "static/css/main.7667fc97.chunk.css",
+    "static/js/main.0d6a13c2.chunk.js"
+  ]
+}
