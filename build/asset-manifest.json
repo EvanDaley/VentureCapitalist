@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/VentureCapitalist/static/css/main.7667fc97.chunk.css",
-    "main.js": "/VentureCapitalist/static/js/main.0d6a13c2.chunk.js",
-    "main.js.map": "/VentureCapitalist/static/js/main.0d6a13c2.chunk.js.map",
-    "runtime-main.js": "/VentureCapitalist/static/js/runtime-main.48443c5e.js",
-    "runtime-main.js.map": "/VentureCapitalist/static/js/runtime-main.48443c5e.js.map",
-    "static/js/2.503ccd1b.chunk.js": "/VentureCapitalist/static/js/2.503ccd1b.chunk.js",
-    "static/js/2.503ccd1b.chunk.js.map": "/VentureCapitalist/static/js/2.503ccd1b.chunk.js.map",
-    "static/js/3.4c60ff16.chunk.js": "/VentureCapitalist/static/js/3.4c60ff16.chunk.js",
-    "static/js/3.4c60ff16.chunk.js.map": "/VentureCapitalist/static/js/3.4c60ff16.chunk.js.map",
-    "index.html": "/VentureCapitalist/index.html",
-    "static/css/main.7667fc97.chunk.css.map": "/VentureCapitalist/static/css/main.7667fc97.chunk.css.map",
-    "static/js/2.503ccd1b.chunk.js.LICENSE.txt": "/VentureCapitalist/static/js/2.503ccd1b.chunk.js.LICENSE.txt"
+    "main.css": "/fitness_dashboard/static/css/main.52928c4f.chunk.css",
+    "main.js": "/fitness_dashboard/static/js/main.d0180094.chunk.js",
+    "main.js.map": "/fitness_dashboard/static/js/main.d0180094.chunk.js.map",
+    "runtime-main.js": "/fitness_dashboard/static/js/runtime-main.bc6efc33.js",
+    "runtime-main.js.map": "/fitness_dashboard/static/js/runtime-main.bc6efc33.js.map",
+    "static/css/2.9c1257d4.chunk.css": "/fitness_dashboard/static/css/2.9c1257d4.chunk.css",
+    "static/js/2.20c8e3d0.chunk.js": "/fitness_dashboard/static/js/2.20c8e3d0.chunk.js",
+    "static/js/2.20c8e3d0.chunk.js.map": "/fitness_dashboard/static/js/2.20c8e3d0.chunk.js.map",
+    "index.html": "/fitness_dashboard/index.html",
+    "static/css/2.9c1257d4.chunk.css.map": "/fitness_dashboard/static/css/2.9c1257d4.chunk.css.map",
+    "static/css/main.52928c4f.chunk.css.map": "/fitness_dashboard/static/css/main.52928c4f.chunk.css.map",
+    "static/js/2.20c8e3d0.chunk.js.LICENSE.txt": "/fitness_dashboard/static/js/2.20c8e3d0.chunk.js.LICENSE.txt",
+    "static/media/icon-01.dbdf9f48.svg": "/fitness_dashboard/static/media/icon-01.dbdf9f48.svg",
+    "static/media/icon-02.01d99a9f.svg": "/fitness_dashboard/static/media/icon-02.01d99a9f.svg",
+    "static/media/icon-03.57348b90.svg": "/fitness_dashboard/static/media/icon-03.57348b90.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.48443c5e.js",
-    "static/js/2.503ccd1b.chunk.js",
-    "static/css/main.7667fc97.chunk.css",
-    "static/js/main.0d6a13c2.chunk.js"
+    "static/js/runtime-main.bc6efc33.js",
+    "static/css/2.9c1257d4.chunk.css",
+    "static/js/2.20c8e3d0.chunk.js",
+    "static/css/main.52928c4f.chunk.css",
+    "static/js/main.d0180094.chunk.js"
   ]
 }
