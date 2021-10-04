@@ -1,13 +1,8 @@
-# portfolio-aguust-2021
+# VentureCapitalist
+A virtual currency game inspired by AdVenture Capitalist, Lemonade Stand, and the Mint finance app.
 
 ## Live Demo
-https://evandaley.github.io/video-sandbox/
-
-## Project description
-A portfolio project built with React and Three.js
-
-## Forking this repo
-I welcome you to fork this if your intention is to learn, or to make something NEW. Please avoid blatant plagiarism. <3
+[todo]
 
 ## Installation and Set Up
 ```
