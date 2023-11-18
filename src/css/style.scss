@@ -11,3 +11,9 @@
 @import 'additional-styles/theme.scss';
 
 @tailwind utilities;
+
+@layer utilities {
+  .w-70 {
+    width: 70px;
+  }
+}

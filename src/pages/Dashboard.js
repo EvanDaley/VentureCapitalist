@@ -7,7 +7,7 @@ import DashboardAvatars from '../partials/dashboard/DashboardAvatars';
 import FilterButton from '../partials/actions/FilterButton';
 import Datepicker from '../partials/actions/Datepicker';
 import IncomeStreams from '../partials/dashboard/IncomeStreams';
-import DashboardCard01 from '../partials/dashboard/DashboardCard01';
+import CashOnHand from '../partials/dashboard/CashOnHand';
 import DashboardCard02 from '../partials/dashboard/DashboardCard02';
 import DashboardCard03 from '../partials/dashboard/DashboardCard03';
 import DashboardCard04 from '../partials/dashboard/DashboardCard04';
@@ -59,12 +59,12 @@ function Dashboard() {
 
             {/* Cards */}
             <div className="grid grid-cols-12 gap-6">
+            <CashOnHand />
 
             <IncomeStreams/>
 
-            <Leads/>
+            {/* <Leads/> */}
 
-            <DashboardCard01 />
             {/* <DashboardCard02 />
             <DashboardCard03 /> */}
 

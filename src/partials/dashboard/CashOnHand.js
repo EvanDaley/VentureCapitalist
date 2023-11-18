@@ -6,8 +6,9 @@ import EditMenu from '../EditMenu';
 
 // Import utilities
 import { tailwindConfig, hexToRGB } from '../../utils/Utils';
+import SimpleTimer from '../SimpleTimer';
 
-function DashboardCard01() {
+function CashOnHand() {
 
   const chartData = {
     labels: [
@@ -60,7 +61,7 @@ function DashboardCard01() {
   };
 
   return (
-    <div className="flex flex-col col-span-full sm:col-span-6 xl:col-span-4 bg-white shadow-lg rounded-sm border border-gray-200">
+    <div className="flex flex-col col-span-full sm:col-span-6 xl:col-span-6 bg-white shadow-lg rounded-sm border border-gray-200">
       <div className="px-5 pt-5">
         <header className="flex justify-between items-start mb-2">
           {/* Icon */}
@@ -78,11 +79,12 @@ function DashboardCard01() {
             </li>
           </EditMenu>
         </header>
-        <h2 className="text-lg font-semibold text-gray-800 mb-2">Acme Plus</h2>
-        <div className="text-xs font-semibold text-gray-400 uppercase mb-1">Sales</div>
+        <h2 className="text-lg font-semibold text-gray-800 mb-2">Total Cash on Hand</h2>
+        <div className="text-xs font-semibold text-gray-400 uppercase mb-1">Current</div>
+        {/* <SimpleTimer/> */}
         <div className="flex items-start">
           <div className="text-3xl font-bold text-gray-800 mr-2">$24,780</div>
-          <div className="text-sm font-semibold text-white px-1.5 bg-green-500 rounded-full">+49%</div>
+          {/* <div className="text-sm font-semibold text-white px-1.5 bg-green-500 rounded-full">+49%</div> */}
         </div>
       </div>
       {/* Chart built with Chart.js 3 */}
@@ -94,4 +96,4 @@ function DashboardCard01() {
   );
 }
 
-export default DashboardCard01;
+export default CashOnHand;
